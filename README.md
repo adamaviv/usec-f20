@@ -17,8 +17,8 @@
 
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
-* [Project](project.md)
-* [Slack](csci6907.slack.com) (email instructor for invite)
+* Project (coming soon)
+* Slack (email instructor for invite)
 * [HotCRP](https://hotcrp.adamaviv.com/usecf20/)
 
 ## Credits and Copyright
