@@ -17,7 +17,7 @@
 
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
-* Project (coming soon)
+* [Project](project.md)
 * Slack (email instructor for invite)
 * [HotCRP](https://hotcrp.adamaviv.com/usecf20/)
 
