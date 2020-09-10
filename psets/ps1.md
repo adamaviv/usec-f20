@@ -4,7 +4,7 @@
 
 ## Problem 1 (35 points)
 
-Github Classroom Link: https://classroom.github.com/a/xi9p2K1_
+Github Classroom Link: [https://classroom.github.com/a/xi9p2K1_](https://classroom.github.com/a/xi9p2K1_)
 
 In light of the "Why Johnny Can't Encrypt" paper, you will perform an expert evaluation of a current encryption tool. Pick a tool from [Wikipedia's list](https://en.wikipedia.org/wiki/Encryption_software) of encryption tools. In particular, consider tools listed at the bottom of that page under the "disk encryption," "email clients," and "OTR" messaging categories. Download and install (or, if applicable, simply enable) the tool you chose. Inspired by the Johnny paper, perform an expert evaluation of the tool.
 
