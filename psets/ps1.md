@@ -98,7 +98,7 @@ Send me an encrypted message that contains the answers to the following question
 This email should be sent `aaviv@gwu.edu` and it should ALSO be signed by your public key.  Use the following subject line
 
 ```
-csci6907: ps0: <your name>
+csci6907: ps1: <your name>
 ```
 
 Note that I may reply in the clear if you do not properly encrypt and/or sign your message. 
