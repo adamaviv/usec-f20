@@ -14,11 +14,10 @@ for the latest information.
 
 * Anne Adams and Martina Angela Sasse. 1999. [Users are not the enemy](http://discovery.ucl.ac.uk/20247/2/CACM%20FINAL.pdf). Commun. ACM 42, 12 (December 1999), 40-46.
 
-* Robert Morris and Ken Thompson. [Password Security: A Case History](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.1635&rep=rep1&type=pdf). Commun. ACM 22, 11 (November 1979), 594-597.
- 
 ### Additional Readings:
 
-* None
+* Robert Morris and Ken Thompson. [Password Security: A Case History](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.1635&rep=rep1&type=pdf). Commun. ACM 22, 11 (November 1979), 594-597.
+
 
 ### Textbook Reading:
 
