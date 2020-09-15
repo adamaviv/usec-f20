@@ -53,6 +53,9 @@ for the latest information.
 --------------------------------------------------------
 ## Meeting 3: Sep. 16
 
+### Due: 
+ * [PS1](psets/ps1.md) on Tuesday Sept. 15.
+
 ### Topic: Qualitative Methods Assessing Computer Security
 
 ### Required Reading:
@@ -86,32 +89,74 @@ for the latest information.
 --------------------------------------------------------
 ## Meeting 5: Sep. 30
 
-### Topic:
+### Due: 
+ * [Project Initial Proposal](project.md)
+
+### Topic: Passwords
 
 --------------------------------------------------------
 ## Meeting 6: Oct. 7
 
+### Due:
+ * [Final Project Proposals](project.md) on Friday Oct. 9
+ * [PS2](psets/ps2.md) on Tuesday Oct. 6
+
+### Topic: Phishing, Spam and Ethics
+ 
 --------------------------------------------------------
 ## Meeting 7: Oct. 14
+
+### Due:
+  * Nothing
+
+### Topic: Mobile Authentication
 
 --------------------------------------------------------
 ## Meeting 8: Oct. 21
 
+### Due:
+ * PS3 on Tuesday Oct. 20
+
+### Topic: Security Warning and Permissions
+
 --------------------------------------------------------
 ## Meeting 9: Oct. 28
+
+### Due:
+
+### Topic: Web Security: SSL Indicators and Installation
 
 --------------------------------------------------------
 ## Meeting 10: Nov. 4
 
+### Due:
+
+### Topic: Breaches and Compliance 
+
 --------------------------------------------------------
 ## Meeting 11: Nov. 11
+
+### Due:
+
+### Topic: Developer Studies
 
 --------------------------------------------------------
 ## Meeting 12: Nov. 18
 
+### Due:
+
+### Topic: Accessibility and Bias
+
 --------------------------------------------------------
 ## Meeting 13: Dec. 2
+
+### Due:
+
+### Topic: Non-Standard User Groups
 
 --------------------------------------------------------
 ## Meeting 14: Dec. 9
 
+### Due:
+
+### Topic: Project Presentations
