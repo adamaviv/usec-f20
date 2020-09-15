@@ -4,7 +4,7 @@
 
 ## Problem 1 (35 points)
 
-Github Classroom Link: https://classroom.github.com/a/xi9p2K1_
+Github Classroom Link: [https://classroom.github.com/a/xi9p2K1_](https://classroom.github.com/a/xi9p2K1_)
 
 In light of the "Why Johnny Can't Encrypt" paper, you will perform an expert evaluation of a current encryption tool. Pick a tool from [Wikipedia's list](https://en.wikipedia.org/wiki/Encryption_software) of encryption tools. In particular, consider tools listed at the bottom of that page under the "disk encryption," "email clients," and "OTR" messaging categories. Download and install (or, if applicable, simply enable) the tool you chose. Inspired by the Johnny paper, perform an expert evaluation of the tool.
 
@@ -38,16 +38,19 @@ In this assignment, you will complete a journal/diary study (on your self) attem
 
 ### Step 0: prepare
 
-This is a journaling/diary study exercise so you should prepare for that first. You should record the following information as part of your quest to complete this problem.
+This is a journaling/diary study exercise so you should prepare for that first. You should record the following information as part of your quest to complete this problem. You should have sections in your diary entry for each of the following information.
 
-1. Any google/search queries you perform
-2. Any websites you opened
-3. Any tools you installed/uninstalled and the context for that tool
-4. Your exploration of using that tools
+1. Any google/search queries you perform, with a brief description of your thought process when searching
+2. Any websites you opened, the url with a brief explanation
+3. Any tools you installed/uninstalled and the context for selecting that tool 
+4. Your exploration of using that tools, the correct and incorrect comands you tried and the context of those commands
 5. Any confusions or questions you had while using the tool
 6. The steps you took in completing the task?
+7. Finally, provide 3-to-4 paragraphs (with multiple sentences per-paragraph!) that is a full narrative, from start to end, in completing this task, as if you were relaying the story to someone in a documentary movie entitled "I sent an encrypted email."
 
-Essentially, try and record yourself as you do this and describe your entire process so that someone else can review your process. Create a file in the git repo called `diary.md` that contains your diary of this task. 
+Essentially, try and record yourself as you do this and describe your entire process so that someone else can review your process and understand your thought process. 
+
+Submit a file in the git repo called `diary.md` that contains your diary of this task. 
 
 ### Step 1: send
 
@@ -95,7 +98,7 @@ Send me an encrypted message that contains the answers to the following question
 This email should be sent `aaviv@gwu.edu` and it should ALSO be signed by your public key.  Use the following subject line
 
 ```
-csci6907: ps0: <your name>
+csci6907: ps1: <your name>
 ```
 
 Note that I may reply in the clear if you do not properly encrypt and/or sign your message. 

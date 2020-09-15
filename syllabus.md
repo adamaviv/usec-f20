@@ -130,7 +130,7 @@ Each week readings are listed as either *Required* or *Additional*.
 
 * *All* students are required to read all the *Required Readings* 
 * CSCI 3907 must submit **one** Reading Response Form for one of the required readings
-* CSCI 6907 must submit **two** Reading Response Forms from the required readings
+* CSCI 6907 must submit **two** Reading Response Forms, one from required readings and one from additional.
 * **Readings are due each Wednesday at 12:00pm**
 
 You will submit your reading responses on our class's [HotCRP](https://hotcrp.adamaviv.com/usecf20/) instance by submitting a review from your chosen paper(s). These reviews will be visible to the whole class. The reviewing form is self explanatory. 
