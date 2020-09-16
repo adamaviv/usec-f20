@@ -90,7 +90,7 @@ for the latest information.
 
 ### Required Reading:
 
-* Daniel Solove. 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review 44, 2007. (no reading report for this one, but please read it)
+* Daniel Solove. ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565). San Diego Law Review 44, 2007. (no reading report for this one, but please read it)
 
 * Allison Woodruff, Vasyl Pihur, Alessandro Acquisti, Sunny Consolvo, Lauren Schmidt, Laura Brandimarte. [Would a Privacy Fundamentalist Sell Their DNA for $1000... If Nothing Bad Happened Thereafter? A Study of the Westin Categories, Behavioral Intentions, and Consequences](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-woodruff.pdf). In Proceedings of SOUPS 2014. (write your report on this one!)
 
