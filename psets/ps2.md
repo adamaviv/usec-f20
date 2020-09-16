@@ -4,9 +4,12 @@ DUE: Oct. 6th at 1259pm ET
 
 This is a group assignment in teams of 2. Your teams for each part should be the same.
 
-# Problem 1 (30 Points) (groups of 2)
+**USING MaxQDA**: I have procured free MaxQDA licenses for everyone in the class. This is a qualitative analysis tool that will make these tasks much easier and clearer. You should install MaxQDA and reach out to the instructor for a license.
 
-Github Classroom Link: https://classroom.github.com/g/BVBlcNo9 (don't check out the assignment until I give you the go ahead!)
+
+## Problem 1 (30 Points) (groups of 2)
+
+Github Classroom Link: https://classroom.github.com/g/BVBlcNo9
 
 From your PS1 assignment on sending an encrypted email, we now have a set of diary entries of participants (that's you!) experiences using encrypted email. Your tasks is to work with another student in the class to perform open-coding and axial-coding on the diary entries to determine emergent themes about the process and difficulties regarding encrypted email. 
 
@@ -16,7 +19,7 @@ You must submit the following files:
 * `codebook.md` : Your codebook you developed. Use markdown formatting of itemized lists to organize your codebook. Organize your code such that larger, axial codes are the top-order list, and sub-list under describe individual group codes. Both the axial-codes and the codes should have a short description explaining them.
 * `themes.md` : Write 3-4 paragraphs on an emergent themes or theories you developed based on the analysis. 
 
-# Problem 3 (70 Points) (groups of 2)
+## Problem 3 (70 Points) (groups of 2)
 
 **THIS IS A LARGE ASSIGNMENT --- please plan ahead!**
 
@@ -56,7 +59,7 @@ For the table of the codebook it should have three columns. In the first column,
 Here are some tips and tools you should consider using to complete this assignment:
 1. Google Meet has really good transcription tools. I tried out [tactiq](https://chrome.google.com/webstore/detail/tactiq-for-google-meet/fggkaccpbmombhnjkjokndojfgagejfb/related?hl=en), which is free for most uses, and could be a good way to conduct your interviews and get a transcript.
 2. If you are using transcription, make sure you read your transcript and fix mistakes.
-3. You might find that you and your teammate want to use a qualitative coding tool. Many cost money, but have a 30-day free trial (like [MaxQDA](https://www.maxqda.com/)). I am trying to get free licences for everyone, but there are also free tools like [Taquette](https://app.taguette.org). Whatever you choose, choose early. 
+3. You should use the free MaxQDA licences to support your qualitative coding. If that's not your jame, there are also free tools like [Taquette](https://app.taguette.org) to support coding.
 4. Don't make this too complicated, focus on a targeted research question and interview. The longer your survey, the more work, but don't be skimpy either. I will review your reports for some depth.
 
   
