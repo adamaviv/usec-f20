@@ -83,8 +83,22 @@ for the latest information.
 --------------------------------------------------------
 ## Meeting 4: Sep. 23
 
-### Topic: Privacy 
+### Due:
+  * Nothing
+  
+### Topic: Survey Design and Privacy 
 
+### Required Reading:
+
+* Daniel Solove. 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review 44, 2007. (no reading report for this one, but please read it)
+
+* Allison Woodruff, Vasyl Pihur, Alessandro Acquisti, Sunny Consolvo, Lauren Schmidt, Laura Brandimarte. [Would a Privacy Fundamentalist Sell Their DNA for $1000... If Nothing Bad Happened Thereafter? A Study of the Westin Categories, Behavioral Intentions, and Consequences](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-woodruff.pdf). In Proceedings of SOUPS 2014. (write your report on this one!)
+
+### Additional Reading:
+
+* Nithya Sambasivan, Garen Checkley, Amna Batool, Nova Ahmed, David Nemer, Laura Sanely Gaytán-Lugo, Tara Matthews, Sunny Consolvo, Elizabeth Churchill. ["Privacy is not for me, it's for those rich women": Performative Privacy Practices on Mobile Phones by Women in South Asia](https://www.usenix.org/system/files/conference/soups2018/soups2018-sambasivan.pdf). In Proceedings of SOUPS 2018.
+
+*  Pardis Emami-Naeini, Yuvraj Agarwal, Lorrie Cranor, and Henry Dixon. [Exploring How Privacy and Security Factor into IoT Device Purchase Behavior](https://homes.cs.washington.edu/~pemamina/publications/chi19/chi19-paper.pdf). CHI ’19.
 
 --------------------------------------------------------
 ## Meeting 5: Sep. 30
@@ -92,7 +106,7 @@ for the latest information.
 ### Due: 
  * [Project Initial Proposal](project.md)
 
-### Topic: Passwords
+### Topic: Metrics of Security and Passwords
 
 --------------------------------------------------------
 ## Meeting 6: Oct. 7
