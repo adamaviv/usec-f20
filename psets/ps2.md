@@ -19,7 +19,7 @@ You must submit the following files:
 * `codebook.md` : Your codebook you developed. Use markdown formatting of itemized lists to organize your codebook. Organize your code such that larger, axial codes are the top-order list, and sub-list under describe individual group codes. Both the axial-codes and the codes should have a short description explaining them.
 * `themes.md` : Write 3-4 paragraphs on an emergent themes or theories you developed based on the analysis. 
 
-## Problem 3 (70 Points) (groups of 2)
+## Problem 2 (70 Points) (groups of 2)
 
 **THIS IS A LARGE ASSIGNMENT --- please plan ahead!**
 
