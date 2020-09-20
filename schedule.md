@@ -100,13 +100,17 @@ for the latest information.
 
 *  Pardis Emami-Naeini, Yuvraj Agarwal, Lorrie Cranor, and Henry Dixon. [Exploring How Privacy and Security Factor into IoT Device Purchase Behavior](https://homes.cs.washington.edu/~pemamina/publications/chi19/chi19-paper.pdf). CHI ’19.
 
+### Textbook Reading
+
+* Lazar et al. Chapter 5: Surveys
+
 --------------------------------------------------------
 ## Meeting 5: Sep. 30
 
 ### Due: 
  * [Project Initial Proposal](project.md)
 
-### Topic: Metrics of Security and Passwords
+### Topic: Security Metrics and Passwords
 
 --------------------------------------------------------
 ## Meeting 6: Oct. 7
