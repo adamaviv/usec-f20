@@ -110,16 +110,31 @@ for the latest information.
 ### Due: 
  * [Project Initial Proposal](project.md)
 
-### Topic: Security Metrics and Passwords
+### Required Reading
+
+
+* Joseph Bonneau. [The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords](http://www.jbonneau.com/doc/B12-IEEESP-analyzing_70M_anonymized_passwords.pdf_. In Proceedings of IEEE SP 2012.
+
+* Michelle L. Mazurek, Saranga Komanduri, Timothy Vidas, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor, Patrick Gage Kelley, Richard Shay, Blase Ur. [Measuring Password Guessability for an Entire University](http://www.ece.cmu.edu/~lbauer/papers/2013/ccs2013-real-passwords.pdf). In Proceedings of CCS 2013.
+
+### Additional Reading
+
+* Blase Ur, Fumiko Noma, Jonathan Bees, Sean M. Segreti, Richard Shay, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor. ["I Added '!' at the End to Make It Secure": Observing Password Creation in the Lab](https://www.blaseur.com/papers/soups15-paper-ur.pdf). In the proceedings of SOUPS 2015.
+
+* Rick Wash, Emilee Rader, Ruthie Berman, and Zac Wellmer. [Understanding Password Choices: How Frequently Entered Passwords are Re-used Across Websites](https://rickwash.com/papers/security-passwords-field-study.pdf). Proceedings of the SOUPS 2016.
+
+### Topic: Passwords Security Metrics
 
 --------------------------------------------------------
 ## Meeting 6: Oct. 7
+
+### Topic: Mobile Authentication and Password Managers
 
 ### Due:
  * [Final Project Proposals](project.md) on Friday Oct. 9
  * [PS2](psets/ps2.md) on Tuesday Oct. 6
 
-### Topic: Phishing, Spam and Ethics
+
  
 --------------------------------------------------------
 ## Meeting 7: Oct. 14
@@ -127,13 +142,14 @@ for the latest information.
 ### Due:
   * Nothing
 
-### Topic: Mobile Authentication
+### Topic: Phishing, Spam and Ethics
 
 --------------------------------------------------------
 ## Meeting 8: Oct. 21
 
 ### Due:
  * PS3 on Tuesday Oct. 20
+
 
 ### Topic: Security Warning and Permissions
 
