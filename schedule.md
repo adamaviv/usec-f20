@@ -113,7 +113,7 @@ for the latest information.
 ### Required Reading
 
 
-* Joseph Bonneau. [The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords](http://www.jbonneau.com/doc/B12-IEEESP-analyzing_70M_anonymized_passwords.pdf_. In Proceedings of IEEE SP 2012.
+* Joseph Bonneau. [The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords](http://www.jbonneau.com/doc/B12-IEEESP-analyzing_70M_anonymized_passwords.pdf). In Proceedings of IEEE SP 2012.
 
 * Michelle L. Mazurek, Saranga Komanduri, Timothy Vidas, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor, Patrick Gage Kelley, Richard Shay, Blase Ur. [Measuring Password Guessability for an Entire University](http://www.ece.cmu.edu/~lbauer/papers/2013/ccs2013-real-passwords.pdf). In Proceedings of CCS 2013.
 
