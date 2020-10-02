@@ -25,6 +25,8 @@ Your proposal should include the following information, approximately one paragr
 
 Following submission of your proposal, your group will schedule meetings with the instructor to get feedback and provide updates. Once the topic is approved, you are expected to make edits on your initial proposals for a final proposal. 
 
+Submit your Inital Project Proposal here: https://classroom.github.com/a/A9NjX4hQ
+
 ## Ethics Review
 
 As part of your project, you will be required to complete an [IRB application](https://docs.google.com/document/d/1bvEF7X5oFGrp-qirZMLADJPm24OkzHmb4RnPlhc-Vpo/edit?usp=sharing) based on the IRB submission forms at GW. As this project is for the purposes of education, not generalizable knowledge, we do not require official IRB approval. However, we expect you to uphold the same standards as an IRB approved research. This includes:
@@ -47,7 +49,7 @@ The second presentation will be your final project presentation, which will be 1
 
 ## Project Schedule
 
-* 9/30: Initial Project Proposal is Due
+* 9/30: Initial Project Proposal is Due (https://classroom.github.com/a/A9NjX4hQ)
 * 10/1-7: Proposal Feedback meetings (to be scheduled with the instructor)
 * 10/9:  Approved Project Proposal is Due
 * 10/23: IRB Application Due 
