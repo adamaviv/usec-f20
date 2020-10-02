@@ -130,6 +130,23 @@ for the latest information.
 
 ### Topic: Mobile Authentication and Password Managers
 
+### Required Readings:
+
+* Adam J. Aviv, Devon Budzitowski, and Ravi Kuber. 2015. [Is Bigger Better? Comparing User-Generated Passwords on 3x3 vs. 4x4 Grid Sizes for Android's Pattern Unlock](https://adamaviv.com/static/www/papers/aviv-acsac15.pdf). In Proceedings of ACSAC 2015.
+
+* P. Markert, D. V. Bailey, M. Golla, M. Duermuth, and A. J. Aviv. [This PIN Can Be Easily Guessed: Analyzing the Security of Smartphone Unlock PINs](https://arxiv.org/pdf/2003.04868.pdf). IEEE Symposium on Security and Privacy. May 2020. 
+
+
+* Sarah Pearman, Shikun Aerin Zhang, Lujo Bauer, Nicolas Christin, and Lorrie Faith Cranor. [Why people (don’t) use password managers effectively](https://www.usenix.org/conference/soups2019/presentation/pearman). SOUPS 2019. 
+
+### Additional Readings:
+
+* Serge Egelman, Sakshi Jain, Rebecca S. Portnoff, Kerwell Liao, Sunny Consolvo, and David Wagner. 2014. Are You Ready to Lock? Understanding User Motivations for Smartphone Locking Behaviors. In Proceedings of CCS 2014.
+
+* Yusuf Albayram, Mohammad Maifi Hasan Khan, Theodore Jensen, and Nhan Nguyen. [“...better to use a lock screen than to worry about saving a few seconds of time”: Effect of Fear Appeal in the Context of Smartphone Locking Behavior](https://www.usenix.org/system/files/conference/soups2017/soups2017-albayram.pdf). In proceedings of SOUPS 2017.
+
+* Sanam Ghorbani Lyastani, Michael Schilling, Sascha Fahl, Michael Backes and Sven Bugiel. [Better managed than memorized? Studying the Impact of Managers on Password Strength and Reuse](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lyastani.pdf). In proceedings of SOUPS 2018. 
+
 ### Due:
  * [Final Project Proposals](project.md) on Friday Oct. 9
  * [PS2](psets/ps2.md) on Tuesday Oct. 6
@@ -148,7 +165,7 @@ for the latest information.
 ## Meeting 8: Oct. 21
 
 ### Due:
- * PS3 on Tuesday Oct. 20
+ * [PS3](psets/ps3.md) on Tuesday Oct. 20
 
 
 ### Topic: Security Warning and Permissions
