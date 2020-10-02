@@ -141,7 +141,7 @@ for the latest information.
 
 ### Additional Readings:
 
-* Serge Egelman, Sakshi Jain, Rebecca S. Portnoff, Kerwell Liao, Sunny Consolvo, and David Wagner. 2014. Are You Ready to Lock? Understanding User Motivations for Smartphone Locking Behaviors. In Proceedings of CCS 2014.
+* Serge Egelman, Sakshi Jain, Rebecca S. Portnoff, Kerwell Liao, Sunny Consolvo, and David Wagner. 2014. [Are You Ready to Lock? Understanding User Motivations for Smartphone Locking Behaviors](https://www.icsi.berkeley.edu/pubs/networking/readytolock14.pdf). In Proceedings of CCS 2014.
 
 * Yusuf Albayram, Mohammad Maifi Hasan Khan, Theodore Jensen, and Nhan Nguyen. [“...better to use a lock screen than to worry about saving a few seconds of time”: Effect of Fear Appeal in the Context of Smartphone Locking Behavior](https://www.usenix.org/system/files/conference/soups2017/soups2017-albayram.pdf). In proceedings of SOUPS 2017.
 
