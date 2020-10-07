@@ -4,6 +4,7 @@ DUE: Tuesday Oct. 20 at 11:59pm ET
 
 
 ## Problem 1 (25 points) (individual)
+Github Classroom Link: [https://classroom.github.com/a/nTnB7ltp](https://classroom.github.com/a/nTnB7ltp)
 
 Download the Rockyou, myspace, and hotmail datasets from the Leaked Passwords section of [skull security](https://wiki.skullsecurity.org/Passwords) and compute the following results:
 
@@ -33,6 +34,7 @@ You should submit the following files:
 
 
 ## Problem 2 (15 points) (individual)
+Github Classroom Link: [https://classroom.github.com/a/unhQat6r](https://classroom.github.com/a/unhQat6r)
 
 Sign up for prolific using your personal email address (not your GW) email address.
 
@@ -56,6 +58,8 @@ You should submit the following files:
 * `submit.png` : screenshot of your completed submission page
 
 ## Problem 3 (75 points) (groups of 2 -- same as PS2)
+
+Github Classroom Link: [https://classroom.github.com/g/jcg9hWbg](https://classroom.github.com/g/jcg9hWbg)
 
 Run a study on prolific. To do this, you will need to sign up for a *second* prolific account. This time one of your group members should sign up with your GW email address, and register as a requester. Be sure to read the instructions carefully as there is easy integration with Qualtrics -- which you should have an account on based on PS1. 
 
@@ -98,6 +102,7 @@ You should turn in the following
 
 
 ## Problem 3 (15 points)
+Github Classroom Link: [https://classroom.github.com/a/cZ_MbMUB](https://classroom.github.com/a/cZ_MbMUB)
 
 For your class project for the class, generate an annotated bibliography of at least 15 research papers that are related to your paper. No more than 7 of those papers can be articles you've been assigned (either required or additional readings) for the class.
 
