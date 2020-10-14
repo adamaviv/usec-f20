@@ -186,12 +186,51 @@ for the latest information.
 
 ### Topic: Security Warning and Permissions
 
+### Required Readings:
+* Devdatta Akhawe and Adrienne Porter Felt. [Alice in Warningland: A Large-Scale Field Study of Browser Security Warning Effectiveness.](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf) In Proceedings of USENIX Security 2013.
+
+* Adrienne Porter Felt, Elizabeth Ha, Serge Egelman, Ariel Haney, Erika Chin, and David Wagner. 2012. [Android permissions: user attention, comprehension, and behavior.](https://www.guanotronic.com/~serge/papers/soups12-android.pdf) In Proceedings of the Eighth Symposium on Usable Privacy and Security (SOUPS '12).
+
+* 	Lynn Tsai, Primal Wijesekera, Joel Reardon, Irwin Reyes, Serge Egelman, David A. Wagner, Nathan Good, Jung-Wei Chen:
+[Turtle Guard: Helping Android Users Apply Contextual Privacy Preferences](https://www.usenix.org/conference/soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
+
+### Additional Readings:
+* Joel Reardon,  Álvaro Feal, Primal Wijesekera, Amit Elazari Bar On, Narseo Vallina-Rodriguez, Serge Egelmanc. [50 Ways to Leak Your Data: An Exploration of Apps' Circumvention of the Android Permissions System](https://www.usenix.org/system/files/sec19-reardon.pdf). In proceedings of USENIX Security 2019.
+
+* 	Adrienne Porter Felt, Erika Chin, Steve Hanna, Dawn Song, David A. Wagner:
+[Android permissions demystified](http://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2011-48.pdf). ACM Conference on Computer and Communications Security 2011.
+
+* Primal Wijesekera, Arjun Baokar, Ashkan Hosseini, Serge Egelman, David A. Wagner, Konstantin Beznosov:
+[Android Permissions Remystified: A Field Study on Contextual Integrity](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wijesekera). In proceedings USENIX Security Symposium 2015
+
+* Hazim Almuhimedi, Florian Schaub, Norman Sadeh, Idris Adjerid, Alessandro Acquisti, Joshua Gluck, Lorrie Faith Cranor, and Yuvraj Agarwal. 2015. [Your Location has been Shared 5,398 Times!: A Field Study on Mobile App Privacy Nudging](https://kilthub.cmu.edu/articles/Your_Location_has_been_Shared_5_398_Times_A_Field_Study_on_Mobile_App_Privacy_Nudging_CMU-ISR-14-116_/6626573/files/12124244.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). 
+
+
 --------------------------------------------------------
 ## Meeting 9: Oct. 28
 
 ### Due:
 
 ### Topic: Web Security: SSL Indicators and Installation
+
+### Required Readings:
+
+* Adrienne Porter Felt, Robert W. Reeder, Alex Ainslie, Helen Harris, Max Walker, Christopher Thompson, Mustafa Emre Acer, Elisabeth Morant, Sunny Consolvo. [Rethinking Connection Security Indicators](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-porter-felt.pdf). In Proceedings of SOUPS 2016.
+
+* Steven Englehardt and Arvind Narayanan. [Online Tracking: A 1-Million-Site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf). In Proceedings of CCS 2016
+
+* Katharina Krombholz, Wilfried Mayer, Martin Schmiedecker, Edgar Weippl. ["I Have No Idea What I'm Doing" - On the Usability of Deploying HTTPS](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-krombholz.pdf). In Proceedings of USENIX Security 2017.
+
+
+### Additional Readings:
+
+* Y. Yao, D. Lo Re, Y. Wang. [Folk Models of Online Behavioral Advertising](https://www.researchgate.net/profile/Yaxing_Yao/publication/313738097_Folk_Models_of_Online_Behavioral_Advertising/links/5a84586faca272c99ac35c9d/Folk-Models-of-Online-Behavioral-Advertising.pdf). Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017). 
+
+*  Matthew Bernhard, Jonathan Sharman, Claudia Z. Acemyan, Philip Kortum, Dan S. Wallach, and J. Alex Halderman. [On the Usability of HTTPS Deployment](https://jhalderm.com/pub/papers/https-chi19.pdf).
+Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
+
+
+* Ruogu Kang, Laura Dabbish, Nathaniel Fruchter, and Sara Kiesler. [“My Data Just Goes Everywhere:” User Mental Models of the Internet and Implications for Privacy and Security](https://www.usenix.org/conference/soups2015/proceedings/presentation/kang). SOUPS 2015
 
 --------------------------------------------------------
 ## Meeting 10: Nov. 4
@@ -200,12 +239,50 @@ for the latest information.
 
 ### Topic: Breaches and Compliance 
 
+### Required Readings:
+
+* [What is GDPR, the EU's new data protection law?](https://gdpr.eu/what-is-gdpr/) **No need to do a report, just read**
+
+* Martin Degeling, Christine Utz, Christopher Lentzsch, Henry Hosseini, Florian Schaub, and Thorsten Holz. [We Value Your Privacy ... Now Take Some Cookies:Measuring the GDPR’s Impact on Web Privacy](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-2_Degeling_paper.pdf). In NDSS'19. 
+
+* Florian Schaub,Rebecca Balebako,Adam L. Durity,Lorrie Faith Cranor. [A Design Space for Effective Privacy Notices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf). SOUPS 2015.
+
+* Jun Ho Huh, Hyoungshick Kim, Swathi S.V.P. Rayala, Rakesh B. Bobba, and Konstantin Beznosov. 2017. [I'm too Busy to Reset my LinkedIn Password: On the Effectiveness of Password Reset Emails](http://library.usc.edu.ph/ACM/CHI%202017/1proc/p387.pdf). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17). 
+
+### Additional Readings:
+
+* Hana Habib, Yixin Zou, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub. [An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites](https://www.usenix.org/system/files/soups2019-habib.pdf). SOUPS 2019. 
+
+* Christine Utz, Martin Degeling, Sascha Fahl, Florian Schaub, Thorsten Holz. [(Un)informed Consent: Studying GDPR Consent Notices in the Field](https://arxiv.org/pdf/1909.02638). Proceedings CCS'19. 
+
+
+* Yixin Zou, Shawn Danino, Kaiwen Sun, and Florian Schaub. 2019. [You `Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications](https://dl.acm.org/citation.cfm?id=3300424). In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).
+
 --------------------------------------------------------
 ## Meeting 11: Nov. 11
 
 ### Due:
 
 ### Topic: Developer Studies
+
+### Required Readings:
+
+* Felix Fischer, Konstantin Böttinger, Huang Xiao, Christian Stransky, Yasemin Acar, Michael Backes, Sascha Fahl. [Stack Overflow Considered Harmful? The Impact of Copy & Paste on Android Application Security](https://saschafahl.de/static/paper/stackoverflow2017.pdf)
+
+
+* Yasemin Acar, Michael Backes, Sascha Fahl, Doowon Kim, Michelle Mazurek, Christian Stransky. [You Get Where You're Looking For - The Impact of Information Sources on Code Security](https://saschafahl.de/static/paper/infosources2016.pdf)
+
+* Alena Naiakshina, Anastasia Danilova, Christian Tiefenau, Marco Herzog, Sergej Dechand, Matthew Smith. [Why Do Developers Get Password Storage Wrong?: A Qualitative Usability Study](https://arxiv.org/pdf/1708.08759.pdf) . ACM Conference on Computer and Communications Security 2017: 311-328
+
+### Additional Readings:
+
+* Alena Naiakshina, Anastasia Danilova, Eva Gerlitz, Emanuel von Zezschwitz, Matthew Smith: ["If you want, I can store the encrypted password": A Password-Storage Field Study with Freelance Developers](https://net.cs.uni-bonn.de/fileadmin/user_upload/naiakshi/Naiakshina_Password_Study.pdf). CHI 2019
+
+* Peter Leo Gorski, Luigi Lo Iacono, Dominik Wermke, Christian Stransky, Sebastian Möller, Yasemin Acar, Sascha Fahl. [Developers Deserve Security Warnings, Too: On the Effect of Integrated Security Advice on Cryptographic API Misuse](https://saschafahl.de/static/paper/devwarnings2018.pdf). SOUPS'18
+
+* Alena Naiakshina, Anastasia Danilova, Christian Tiefenau, Matthew Smith:
+[Deception Task Design in Developer Password Studies: Exploring a Student Sample](https://www.usenix.org/system/files/conference/soups2018/soups2018-naiakshina.pdf). SOUPS @ USENIX Security Symposium 2018
+
 
 --------------------------------------------------------
 ## Meeting 12: Nov. 18
