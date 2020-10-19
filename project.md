@@ -36,6 +36,7 @@ As part of your project, you will be required to complete an [IRB application](h
 3. Informing participants that they are participating in a research project for a class.
 4. If deception was used, providing post-procedure information to participants.
 
+Submit your IRB Application here: https://classroom.github.com/a/UP88Nsc2
 
 ## Status Updates
 
@@ -52,7 +53,7 @@ The second presentation will be your final project presentation, which will be 1
 * 9/30: Initial Project Proposal is Due (https://classroom.github.com/a/A9NjX4hQ)
 * 10/1-7: Proposal Feedback meetings (to be scheduled with the instructor)
 * 10/9:  Approved Project Proposal is Due
-* 10/23: IRB Application Due 
+* 10/26: IRB Application Due (https://classroom.github.com/a/UP88Nsc2)
 * 11/4: Lightening Talks and Project Status Updates due
 * 11/6-8: Status update meetings (to be schedule with the instructor)
 * 11/16-20: Project Status Meetings
