@@ -214,6 +214,8 @@ soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 ## Meeting 9: Oct. 28
 
 ### Due:
+* [IRB Application for Project](https://docs.google.com/document/d/1bvEF7X5oFGrp-qirZMLADJPm24OkzHmb4RnPlhc-Vpo/edit?usp=sharing) on Monday Oct. 26
+  * Github Classroom Link: https://classroom.github.com/a/UP88Nsc2
 
 ### Topic: Web Security: SSL Indicators and Installation
 
