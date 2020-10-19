@@ -243,6 +243,7 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 
 ### Due:
   * Project Lightening Talks -- 3 minute presentations about your project
+  * Problem 1a for [PS4](psets/ps4.md) -- your IRB review -- Due Nov 2nd
   
 ### Topic: Breaches and Compliance 
 
@@ -269,7 +270,8 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 ## Meeting 11: Nov. 11
 
 ### Due:
-
+  * [PS4](psets/ps4.md) due Tuesday, Nov 10 
+  
 ### Topic: Developer Studies
 
 ### Required Readings:
@@ -301,7 +303,8 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 --------------------------------------------------------
 ## Meeting 13: Dec. 2
 
-### Due:
+### Due: 
+ * PS5 due Dec 1st
 
 ### Topic: Non-Standard User Groups
 
@@ -311,3 +314,10 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 ### Due:
 
 ### Topic: Project Presentations
+
+--------------------------------------------------------
+
+## Dec. 18
+
+### Due:
+ * Final project reports due
