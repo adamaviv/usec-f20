@@ -195,6 +195,10 @@ for the latest information.
 * Primal Wijesekera, Arjun Baokar, Ashkan Hosseini, Serge Egelman, David A. Wagner, Konstantin Beznosov:
 [Android Permissions Remystified: A Field Study on Contextual Integrity](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wijesekera). In proceedings USENIX Security Symposium 2015
 
+* Adrienne Porter Felt, Elizabeth Ha, Serge Egelman, Ariel Haney, Erika Chin, and David Wagner. 2012. [Android permissions: user attention, comprehension, and behavior.](https://www.guanotronic.com/~serge/papers/soups12-android.pdf) In Proceedings of the Eighth Symposium on Usable Privacy and Security (SOUPS '12).
+soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
+
+
 ### Additional Readings:
 * Joel Reardon,  Álvaro Feal, Primal Wijesekera, Amit Elazari Bar On, Narseo Vallina-Rodriguez, Serge Egelmanc. [50 Ways to Leak Your Data: An Exploration of Apps' Circumvention of the Android Permissions System](https://www.usenix.org/system/files/sec19-reardon.pdf). In proceedings of USENIX Security 2019.
 
@@ -204,9 +208,6 @@ for the latest information.
 
 * Hazim Almuhimedi, Florian Schaub, Norman Sadeh, Idris Adjerid, Alessandro Acquisti, Joshua Gluck, Lorrie Faith Cranor, and Yuvraj Agarwal. 2015. [Your Location has been Shared 5,398 Times!: A Field Study on Mobile App Privacy Nudging](https://kilthub.cmu.edu/articles/Your_Location_has_been_Shared_5_398_Times_A_Field_Study_on_Mobile_App_Privacy_Nudging_CMU-ISR-14-116_/6626573/files/12124244.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). 
 
-
-* Adrienne Porter Felt, Elizabeth Ha, Serge Egelman, Ariel Haney, Erika Chin, and David Wagner. 2012. [Android permissions: user attention, comprehension, and behavior.](https://www.guanotronic.com/~serge/papers/soups12-android.pdf) In Proceedings of the Eighth Symposium on Usable Privacy and Security (SOUPS '12).
-soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 
 
 --------------------------------------------------------
