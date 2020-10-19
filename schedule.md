@@ -242,7 +242,8 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 ## Meeting 10: Nov. 4
 
 ### Due:
-
+  * Project Lightening Talks -- 3 minute presentations about your project
+  
 ### Topic: Breaches and Compliance 
 
 ### Required Readings:
