@@ -29,7 +29,12 @@ Submit your Inital Project Proposal here: https://classroom.github.com/a/A9NjX4h
 
 ## Ethics Review
 
-As part of your project, you will be required to complete an [IRB application](https://docs.google.com/document/d/1bvEF7X5oFGrp-qirZMLADJPm24OkzHmb4RnPlhc-Vpo/edit?usp=sharing) based on the IRB submission forms at GW. As this project is for the purposes of education, not generalizable knowledge, we do not require official IRB approval. However, we expect you to uphold the same standards as an IRB approved research. This includes:
+As part of your project, you will be required to complete an IRB Application that contains the following information:
+* [IRB application from](https://docs.google.com/document/d/1bvEF7X5oFGrp-qirZMLADJPm24OkzHmb4RnPlhc-Vpo/edit?usp=sharing) 
+* [Informed Consent](https://docs.google.com/document/d/17J6efNvzT-igbk9jHgWzDpS4EGErb0M_E3VnjQfowqk/edit?usp=sharing)
+* Study Questions/Survey/Transcript -- these do not need to be final, but should cover the kinds of things you are asking about. 
+
+This is based on the standard IRB submission requirements at GW. As this project is for the purposes of education, not generalizable knowledge, we do not require official IRB approval. However, we expect you to uphold the same standards as an IRB approved research. This includes:
 
 1. Treating all participants ethically and fairly
 2. Providing confidentiality linking personal information of participants to data.
