@@ -204,7 +204,7 @@ soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 
 
 * 	Lynn Tsai, Primal Wijesekera, Joel Reardon, Irwin Reyes, Serge Egelman, David A. Wagner, Nathan Good, Jung-Wei Chen:
-[Turtle Guard: Helping Android Users Apply Contextual Privacy Preferences](https://www.usenix.org/conference/
+[Turtle Guard: Helping Android Users Apply Contextual Privacy Preferences](https://www.usenix.org/system/files/conference/soups2017/soups2017-tsai.pdf)
 
 * Hazim Almuhimedi, Florian Schaub, Norman Sadeh, Idris Adjerid, Alessandro Acquisti, Joshua Gluck, Lorrie Faith Cranor, and Yuvraj Agarwal. 2015. [Your Location has been Shared 5,398 Times!: A Field Study on Mobile App Privacy Nudging](https://kilthub.cmu.edu/articles/Your_Location_has_been_Shared_5_398_Times_A_Field_Study_on_Mobile_App_Privacy_Nudging_CMU-ISR-14-116_/6626573/files/12124244.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). 
 
