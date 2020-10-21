@@ -9,7 +9,7 @@ Github Classroom Link: https://classroom.github.com/a/p7X8sidB
 
 **this part is due Nov. 2, before the rest of the problem set!**
 
-**You submit your review to github classroom, but you also send it to the person student you're reviewing**
+**You submit your review to github classroom, but you also send it to the student whom you're reviewing**
 
 At this point, you have all provided an IRB application for your project. Great! Now, it's time to perform a review and feedback on that application using the review criteria provided by the IRB. You will each be assigned someone else's IRB application, and you must provide a review form using the following format. 
 
