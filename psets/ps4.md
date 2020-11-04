@@ -66,7 +66,7 @@ Also include a file called `mockup.pdf` (or `mockup.png` or `mockup.jpg` or etc.
 We've been discussing different privacy notices and how privacy and data processing is communicated to end users. For this assignment, you are going to review common privacy notices. Read the following privacy policies for popular services:
 
 * [Wikimedia](https://foundation.wikimedia.org/wiki/Privacy_policy)
-* [Reddit](https://www.reddit.com/wiki/privacypolicy)
+* [Reddit](https://www.redditinc.com/policies/privacy-policy)
 * [Twitch](https://www.twitch.tv/p/legal/privacy-notice/)
 * [New York Times](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy)
 
