@@ -290,6 +290,7 @@ soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 * Alena Naiakshina, Anastasia Danilova, Christian Tiefenau, Matthew Smith:
 [Deception Task Design in Developer Password Studies: Exploring a Student Sample](https://www.usenix.org/system/files/conference/soups2018/soups2018-naiakshina.pdf). SOUPS @ USENIX Security Symposium 2018
 
+* Daniel Votipka, Kelsey R. Fulton, James Parker, Matthew Hou, Michelle L. Mazurek, Michael Hicks. [Understanding security mistakes developers make: Qualitative analysis from Build It, Break It, Fix It](https://www.usenix.org/system/files/sec20-votipka-understanding.pdf). USENIX Security, 2020. 
 
 --------------------------------------------------------
 ## Meeting 12: Nov. 18
