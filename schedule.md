@@ -295,9 +295,28 @@ soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 --------------------------------------------------------
 ## Meeting 12: Nov. 18
 
-### Due:
+### Due: Nothing
 
-### Topic: Accessibility and Bias
+### Topic: Non-Standard User Groups
+
+### Required Readings:
+
+* Susan E. McGregor, Elizabeth Anne Watkins, Mahdi Nasrullah Al-Ameen, Kelly Caine, Franziska Roesner. [When the Weakest Link is Strong: Secure Collaboration in the Case of the Panama Papers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-mcgregor.pdf). In Proceedings of USENIX Security 2017.
+
+* Tamy Guberek, Allison McDonald, Sylvia Simioni, Abraham H Mhaidli, Kentaro Toyama, Florian Schaub. [Keeping a Low Profile? Technology, Risk and Privacy among Undocumented Immigrants](https://amcdon.com/papers/lowprofile-chi18.pdf). In Proceedings of CHI 2018.
+
+
+* Diana Freed, Jackeline Palmer, Diana Minchala, Karen Levy, Thomas Ristenpart, and Nicola Dell. ["A Stalker's Paradise": How Intimate Partners Abuse Technology](https://rist.tech.cornell.edu/papers/stalkers-paradise-intimate.pdf). In proceedings of CHI'18.
+
+### Additional Readings:
+
+
+* Christine Chen, Nicola Dell, and Franziska Roesner. [Computer Security and Privacy in the Interactions Between Victim Service Providers and Human Trafficking Survivors.](https://www.franziroesner.com/pdf/chen-vsp-usenixsec19.pdf). In proceedings of USENIX Security 2019.
+
+* Emily Tseng, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell and Thomas Ristenpart. [The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums](https://www.usenix.org/system/files/sec20-tseng.pdf). In proceedings of USENIX Security 2020. 
+
+* Cheul Young Park, Cori Faklaris, Siyan Zhao, Alex Sciuto, Laura Dabbish, and Jason Hong. [Share and Share Alike? An Exploration of Secure Behaviors in Romantic Relationships](https://www.usenix.org/system/files/conference/soups2018/soups2018-park.pdf). In proceedings of SOUPS 2018.
+
 
 --------------------------------------------------------
 ## Meeting 13: Dec. 2
@@ -305,7 +324,28 @@ soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 ### Due: 
  * PS5 due Dec 1st
 
-### Topic: Non-Standard User Groups
+### Topic: Accesibility and Bias
+
+* Tousif Ahmed, Patrick Shaffer, Kay Connelly, David Crandall, Apu Kapadia. [Addressing Physical Safety, Security, and Privacy for People with Visual Impairments](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-ahmed.pdf). In Proceedings of SOUPS 2016.
+
+* Alisa Frik, Leysan Nurgalieva, Julia Bernd, Joyce S. Lee, Florian Schaub, Serge Egelman. [Privacy and Security Threat Models and Mitigation Strategies of Older Adults](https://www.usenix.org/system/files/soups2019-frik.pdf). In proceedings of SOUPS 2019. 
+
+* Angela D. R. Smith, Alex A. Ahmed, Adriana Alvarado Garcia, Bryan Dosono, Ihudiya Ogbonnaya-Ogburu, Yolanda Rankin, Alexandra To, and Kentaro Toyama. 2020. [What's Race Got To Do With It? Engaging in Race in HCI. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)](https://dl.acm.org/doi/10.1145/3334480.3375156) . CHI 2020. (may need to VPN into the campus network)
+
+### Additional Readings:
+
+* Taslima Akter, Bryan Dosono, Tousif Ahmed, Apu Kapadia, and Bryan Semaan,
+["I am uncomfortable sharing what I can't see": Privacy Concerns of the Visually Impaired with Camera Based Assistive Applications.](https://cs.indiana.edu/~kapadia/papers/akter-sec20.pdf). 
+In the proceedings of USENIX Security 2020.
+
+* Bryan Dosono, Jordan Hayes, Yang Wang. ["I'm Stuck!": A Contextual Inquiry of People with Visual Impairments in Authentication](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-dosono.pdf). In Proceedings of SOUPS 2015.
+
+* Hirak Ray, Flynn Wolf, Adam J. Aviv, and Ravi Kuber. “And Then The Castle Just Falls:” Using Drawmetrics to Compare Privacy Concerns of Older and Working Adults. Pre-Print (see hotCRP instance for paper)
+
+* Hirak Ray, Flynn Wolf, Ravi Kuber, Adam J. Aviv. [Why Older Adults (Don't) Use Password Managers](https://arxiv.org/abs/2010.01973). In the proceedings of the 2021 USENIX Security Symposium. Aug. 2021. 
+
+* Natã M. Barbosa, Jordan Hayes, Yang Wang. [UniPass: Design and Evaluation of a Smart Device-Based Password Manager for Visually Impaired Users](https://natabarbosa.com/ubicomp_unipass.pdf). In Proceedings of UbiComp 2016.
+
 
 --------------------------------------------------------
 ## Meeting 14: Dec. 9
