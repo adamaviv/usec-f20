@@ -340,7 +340,6 @@ In the proceedings of USENIX Security 2020.
 
 * Bryan Dosono, Jordan Hayes, Yang Wang. ["I'm Stuck!": A Contextual Inquiry of People with Visual Impairments in Authentication](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-dosono.pdf). In Proceedings of SOUPS 2015.
 
-* Hirak Ray, Flynn Wolf, Adam J. Aviv, and Ravi Kuber. “And Then The Castle Just Falls:” Using Drawmetrics to Compare Privacy Concerns of Older and Working Adults. Pre-Print (see hotCRP instance for paper)
 
 * Hirak Ray, Flynn Wolf, Ravi Kuber, Adam J. Aviv. [Why Older Adults (Don't) Use Password Managers](https://arxiv.org/abs/2010.01973). In the proceedings of the 2021 USENIX Security Symposium. Aug. 2021. 
 
