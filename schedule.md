@@ -330,7 +330,7 @@ soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 
 * Alisa Frik, Leysan Nurgalieva, Julia Bernd, Joyce S. Lee, Florian Schaub, Serge Egelman. [Privacy and Security Threat Models and Mitigation Strategies of Older Adults](https://www.usenix.org/system/files/soups2019-frik.pdf). In proceedings of SOUPS 2019. 
 
-* Angela D. R. Smith, Alex A. Ahmed, Adriana Alvarado Garcia, Bryan Dosono, Ihudiya Ogbonnaya-Ogburu, Yolanda Rankin, Alexandra To, and Kentaro Toyama. 2020. [What's Race Got To Do With It? Engaging in Race in HCI. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)](https://dl.acm.org/doi/10.1145/3334480.3375156) . CHI 2020. (may need to VPN into the campus network)
+* Ogbonnaya-Ogburu, Ihudiya Finda, Angela DR Smith, Alexandra To, and Kentaro Toyama. [Critical Race Theory for HCI](https://www.alexandrato.com/papers/Critical_Race_Theory_for_HCI.pdf). In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1-16. 2020.
 
 ### Additional Readings:
 
