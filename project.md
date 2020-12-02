@@ -53,6 +53,49 @@ You will make two presentations about your project in class. The first is a "Lig
 
 The second presentation will be your final project presentation, which will be 15 minutes in length with 5 minutes of questions. These presentations should be inline with conference/workshop style presentations and provide some depth of the methods, analysis, and conclusions. 
 
+## Project Final Report
+
+Your final report should be between 6-8 pages, not includeing bibliography and appendix. It should be formatted as [ACM, two column format](https://www.acm.org/publications/proceedings-template). You can easily find this on [overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ). You should use the `\documentclass[sigconf]{acmart}` header for the two collumn format.
+
+Your paper should have the following outline (and descriptions):
+* Abstract
+  * One paragraph description of your research questions and motivations and a brief summary of the conclusion
+* Introduction (containing the following details)
+  * Motivation (one/two-paragraph)
+  * Related work doesn’t cover this!
+  * Research Question (…)
+  * Method (…)
+  * Results (…)
+  * Conclusions/Contributions (…)
+* Related Work
+  * Enumerate what’s come before but also(!) include how that related work matters to this research
+* Methodology
+  * What was the method of investigation (survey/interview)
+  * Description of the survey 
+  * Who do you recruit and from where
+  * Limitations
+* Results
+  * How did you analyze it?
+  * What did you find?
+  * Address each hypthosis/research question, what is their answer?
+* Discussion
+  * Interpretation and place in the context
+  * Now that you know the answer to a RQ, what doe that mean…
+  * What does this mean and how do we apply
+  * Future work/future directions
+* Conclusion
+   * Rehashing of the motivations/research-question/methods/results/contributions
+* Appendix
+  * Entire survey/interview instrument
+  * Codebook (qualitative)
+  * Any additional figures and material is relevant for me to review
+
+ 
+
+ 
+
+Submit your final report here: https://classroom.github.com/a/KwwKmB4S
+
 ## Project Schedule
 
 * 9/30: Initial Project Proposal is Due (https://classroom.github.com/a/A9NjX4hQ)
