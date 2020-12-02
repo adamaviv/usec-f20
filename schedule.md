@@ -358,4 +358,4 @@ In the proceedings of USENIX Security 2020.
 ## Dec. 18
 
 ### Due:
- * Final project reports due
+ * Final project reports due (https://classroom.github.com/a/KwwKmB4S)
